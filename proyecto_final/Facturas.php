@@ -12,6 +12,7 @@ $ingresos_totales = !empty($f_sumas['total_neto']) ? $f_sumas['total_neto'] : 0;
 $iva_acumulado = !empty($f_sumas['total_iva']) ? $f_sumas['total_iva'] : 0;
 ?>
 
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
