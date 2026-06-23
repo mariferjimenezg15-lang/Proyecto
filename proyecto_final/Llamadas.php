@@ -14,6 +14,7 @@ $f_salientes = mysqli_fetch_assoc($res_salientes);
 $total_salientes = $f_salientes['total'];
 ?>
 
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
